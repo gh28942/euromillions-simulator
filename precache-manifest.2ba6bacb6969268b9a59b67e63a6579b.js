@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ca1e963724c23e124dd4500990312f",
+    "revision": "9dd7fd316036966c91ea9b25e6815808",
     "url": "/euromillions-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/euromillions-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "e1351aeddd4d01452483",
+    "revision": "c1363fb812bdfdfbd02e",
     "url": "/euromillions-simulator/static/css/main.d4244b12.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/euromillions-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1351aeddd4d01452483",
-    "url": "/euromillions-simulator/static/js/main.ccda947c.chunk.js"
+    "revision": "c1363fb812bdfdfbd02e",
+    "url": "/euromillions-simulator/static/js/main.a48c7551.chunk.js"
   },
   {
     "revision": "f5212893f2eeb4b91cb2",

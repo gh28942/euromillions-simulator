@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/euromillions-simulator/precache-manifest.1fedbd481d15de9bb850e6797faafced.js"
+  "/euromillions-simulator/precache-manifest.2ba6bacb6969268b9a59b67e63a6579b.js"
 );
 
 self.addEventListener('message', (event) => {
