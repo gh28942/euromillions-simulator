@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/euromillions-simulator/static/css/main.d4244b12.chunk.css",
+    "main.js": "/euromillions-simulator/static/js/main.ccda947c.chunk.js",
+    "main.js.map": "/euromillions-simulator/static/js/main.ccda947c.chunk.js.map",
+    "runtime-main.js": "/euromillions-simulator/static/js/runtime-main.a7303bf4.js",
+    "runtime-main.js.map": "/euromillions-simulator/static/js/runtime-main.a7303bf4.js.map",
+    "static/css/2.bac56067.chunk.css": "/euromillions-simulator/static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js": "/euromillions-simulator/static/js/2.effe3d63.chunk.js",
+    "static/js/2.effe3d63.chunk.js.map": "/euromillions-simulator/static/js/2.effe3d63.chunk.js.map",
+    "index.html": "/euromillions-simulator/index.html",
+    "precache-manifest.1fedbd481d15de9bb850e6797faafced.js": "/euromillions-simulator/precache-manifest.1fedbd481d15de9bb850e6797faafced.js",
+    "service-worker.js": "/euromillions-simulator/service-worker.js",
+    "static/css/2.bac56067.chunk.css.map": "/euromillions-simulator/static/css/2.bac56067.chunk.css.map",
+    "static/css/main.d4244b12.chunk.css.map": "/euromillions-simulator/static/css/main.d4244b12.chunk.css.map",
+    "static/js/2.effe3d63.chunk.js.LICENSE.txt": "/euromillions-simulator/static/js/2.effe3d63.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/euromillions-simulator/static/media/stars.14f57f65.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7303bf4.js",
+    "static/css/2.bac56067.chunk.css",
+    "static/js/2.effe3d63.chunk.js",
+    "static/css/main.d4244b12.chunk.css",
+    "static/js/main.ccda947c.chunk.js"
+  ]
+}
